@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Share Video</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1>Share Video</h1>
+    <video id="video-preview" src="path/to/video.mp4" controls></video>
+    <button id="twitter-button">Share on Twitter</button>
+    <button id="instagram-button">Share on Instagram</button>
+    <button id="download-button">Download Video</button>
+    <script src="script.js"></script>
+  </body>
+</html>
