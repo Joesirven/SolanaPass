@@ -11,7 +11,7 @@ instagramButton.addEventListener("click", function() {
 const downloadButton = document.getElementById("download-button");
 downloadButton.addEventListener("click", function() {
     const link = document.createElement("a");
-    link.href = "path/to/video.mp4";
+    link.href = "UX Designathon Hacker Pass.mp4";
     link.download = "video.mp4";
     link.click();
 });
